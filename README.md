@@ -1,4 +1,4 @@
-# Ymir Ragnarok Online
+#Ymir Ragnarok Online
 ## EPISODE 5 — PURE CLASSIC
 
 ![YmirRO Logo](assets/ymirro-logo.png)
@@ -31,5 +31,6 @@ YmirRO is designed as a **fair, nostalgia-accurate** environment with **no GM in
 - [Novice Guide](novice-guide.md)
 - [Rules & Server Philosophy](rules-and-philosophy.md)
 - [FAQ](faq.md)
+
 
 
