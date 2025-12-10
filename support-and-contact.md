@@ -9,9 +9,10 @@ If you encounter issues:
 For further help, contact us via:
 
 - Official Website: **https://ymir-ro.com/**
-- (Add Discord link or forum link here)
+- Discord: **https://discord.gg/skvXcqpXpU**
 
 When reporting bugs, include:
 - Your character name
 - Map / situation
 - Screenshots if possible
+
