@@ -30,6 +30,10 @@
 * [FAQ](faq.md)
 * [Support & Contact](support-and-contact.md)
 
+## Group 1
+
+* [Term of Service](group-1/term-of-service.md)
+
 ## Discord Rules & Setup
 
 * [Discord Guidelines](discord-rules-and-setup/discord-guidelines.md)
