@@ -34,7 +34,6 @@ The following are **strictly forbidden**:\
 • NSFW / explicit content\
 • Illegal content or activities\
 • Cheats, bots, hacks, exploits, or bypassing Gepard Shield\
-• Real-money trading (RMT), account selling, or services\
 • Phishing, malware, or suspicious links
 
 ***

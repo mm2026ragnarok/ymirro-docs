@@ -33,7 +33,3 @@
 ## Discord Rules & Setup
 
 * [Discord Guidelines](discord-rules-and-setup/discord-guidelines.md)
-
-***
-
-* [Discord Setup & Rules](discord-setup-and-rules.md)
