@@ -1,6 +1,6 @@
 # Ymir Ragnarok Online
 
-\#Ymir Ragnarok Online
+
 
 ### EPISODE 5 — PURE CLASSIC
 
