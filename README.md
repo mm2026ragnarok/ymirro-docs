@@ -1,8 +1,25 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # Ymir Ragnarok Online
 
 
 
-### EPISODE 5 — PURE CLASSIC
+<h3 align="center"><code>EPISODE 5 — PURE CLASSIC</code></h3>
 
 ![YmirRO Logo](.gitbook/assets/ymirro-logo.png)
 
