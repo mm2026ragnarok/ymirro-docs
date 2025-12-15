@@ -6,21 +6,33 @@ description: Maintaining a fair, stable, and true Episode 5 classic experience.
 
 ### 👑 Server Owners
 
+\<p align="center"> \<img src="/assets/gm-ymir.png" width="180" /> \</p>
+
 #### 🛡️ **GM Ymir**
 
-\<span style="display:inline-block;padding:4px 10px;border-radius:999px;background:#ffe08a;color:#7a4a00;font-weight:600;">Owner\</span>\
-\<span style="display:inline-block;padding:4px 10px;border-radius:999px;background:#cce5ff;color:#003a8c;font-weight:600;">Administrator\</span>
+\<div align="center">
 
-• Overall server direction & management\
-• Core configuration & balance\
-• Infrastructure, security, and enforcement
+🏷️ **Owner**\
+🛠️ **Administrator**
+
+\</div>
+
+• Overall server management & direction\
+• Core configuration and balance\
+• Infrastructure, security & rule enforcement
 
 ***
 
+\<p align="center"> \<img src="/assets/gm-yexiu.png" width="180" /> \</p>
+
 #### 🛡️ **GM Ye Xiu**
 
-\<span style="display:inline-block;padding:4px 10px;border-radius:999px;background:#ffe08a;color:#7a4a00;font-weight:600;">Owner\</span>\
-\<span style="display:inline-block;padding:4px 10px;border-radius:999px;background:#cce5ff;color:#003a8c;font-weight:600;">Administrator\</span>
+\<div align="center">
+
+🏷️ **Owner**\
+🛠️ **Administrator**
+
+\</div>
 
 • Co-owner & strategic decisions\
 • Gameplay philosophy & EP5 integrity\
@@ -30,11 +42,13 @@ description: Maintaining a fair, stable, and true Episode 5 classic experience.
 
 ### ⚙️ Development
 
+\<p align="center"> \<img src="/assets/gm-ryuuu.png" width="180" /> \</p>
+
 #### 🧠 **GM Ryuuu**
 
 \<div align="center">
 
-**💻 Developer**\
+💻 **Developer**\
 **Role:** Lead Developer
 
 \</div>
@@ -48,10 +62,16 @@ description: Maintaining a fair, stable, and true Episode 5 classic experience.
 
 ### 📢 Community & Media
 
+\<p align="center"> \<img src="/assets/gm-kramz.png" width="180" /> \</p>
+
 #### 📣 **GM Kramz**
 
-\<span style="display:inline-block;padding:4px 10px;border-radius:999px;background:#f3d9fa;color:#6a1b9a;font-weight:600;">Social Moderator\</span>\
-\<span style="display:inline-block;padding:4px 10px;border-radius:999px;background:#fff3bf;color:#8a6d00;font-weight:600;">Advertising\</span>
+\<div align="center">
+
+🌐 **Social Moderator**\
+📢 **Advertising**
+
+\</div>
 
 • Community moderation & engagement\
 • Server promotion & announcements\
@@ -64,13 +84,13 @@ description: Maintaining a fair, stable, and true Episode 5 classic experience.
 > All YMIR RO staff are held to strict standards.
 
 • No abuse of GM commands\
-• No favouritism or personal gain\
+• No favoritism or personal gain\
 • Fair and logged enforcement\
 • Classic-first philosophy
 
-If you encounter any issues, please use **Support & Contact**.
+If you encounter any issues involving staff, please report them via **Support & Contact**.
 
 ***
 
-✨ **YMIR Ragnarök Online**\
+✨ **YMIR Ragnarok Online**\
 &#xNAN;_&#x52;e-Experience True Classic RO_
