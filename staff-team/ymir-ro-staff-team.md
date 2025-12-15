@@ -2,7 +2,7 @@
 description: Maintaining a fair, stable, and true Episode 5 classic experience.
 ---
 
-# YMIR Ragnarok O — Staff Team
+# YMIR RO — Staff Team
 
 ### 👑 Server Owners
 
@@ -19,7 +19,7 @@ description: Maintaining a fair, stable, and true Episode 5 classic experience.
 
 ### ⚙️ Development
 
-#### GM Ryuuu
+#### GM Ryuuou
 
 **Developer**\
 **Role:** Lead Developer
