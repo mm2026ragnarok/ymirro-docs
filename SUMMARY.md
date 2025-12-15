@@ -32,7 +32,7 @@
 
 ## Staff Team
 
-* [YMIR Ragnarok Online — Staff Team](staff-team/ymir-ragnarok-online-staff-team.md)
+* [YMIR Ragnarok O — Staff Team](staff-team/ymir-ragnarok-o-staff-team.md)
 
 ## Discord Rules & Setup
 
