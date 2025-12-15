@@ -17,16 +17,10 @@ description: Maintaining a fair, stable, and true Episode 5 classic experience.
 
 ***
 
-\<p align="center"> \<img src="/assets/gm-yexiu.png" width="180" /> \</p>
+#### 🛡️ GM Ye Xiu
 
-#### 🛡️ **GM Ye Xiu**
-
-\<div align="center">
-
-🏷️ **Owner**\
-🛠️ **Administrator**
-
-\</div>
+**Owner**\
+**Administrator**
 
 • Co-owner & strategic decisions\
 • Gameplay philosophy & EP5 integrity\
