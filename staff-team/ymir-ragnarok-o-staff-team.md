@@ -6,18 +6,7 @@ description: Maintaining a fair, stable, and true Episode 5 classic experience.
 
 ### 👑 Server Owners
 
-#### 🛡️ GM Ye Xiu
-
-**Owner**\
-**Administrator**
-
-• Co-owner & strategic decisions\
-• Gameplay philosophy & EP5 integrity\
-• Staff operations & community oversight
-
-***
-
-#### 🛡️ GM Ye Xiu
+#### GM Ye Xiu
 
 **Owner**\
 **Administrator**
@@ -30,16 +19,10 @@ description: Maintaining a fair, stable, and true Episode 5 classic experience.
 
 ### ⚙️ Development
 
-\<p align="center"> \<img src="/assets/gm-ryuuu.png" width="180" /> \</p>
+#### GM Ryuuu
 
-#### 🧠 **GM Ryuuu**
-
-\<div align="center">
-
-💻 **Developer**\
+**Developer**\
 **Role:** Lead Developer
-
-\</div>
 
 • Server development & maintenance\
 • Script fixes and system stability\
@@ -50,16 +33,10 @@ description: Maintaining a fair, stable, and true Episode 5 classic experience.
 
 ### 📢 Community & Media
 
-\<p align="center"> \<img src="/assets/gm-kramz.png" width="180" /> \</p>
+#### GM Kramz
 
-#### 📣 **GM Kramz**
-
-\<div align="center">
-
-🌐 **Social Moderator**\
-📢 **Advertising**
-
-\</div>
+**Social Moderator**\
+**Advertising**
 
 • Community moderation & engagement\
 • Server promotion & announcements\
@@ -69,7 +46,7 @@ description: Maintaining a fair, stable, and true Episode 5 classic experience.
 
 ### 📜 Staff Conduct Policy
 
-> All YMIR RO staff are held to strict standards.
+All YMIR RO staff are held to strict standards.
 
 • No abuse of GM commands\
 • No favoritism or personal gain\
