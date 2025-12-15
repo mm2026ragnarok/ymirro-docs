@@ -6,20 +6,14 @@ description: Maintaining a fair, stable, and true Episode 5 classic experience.
 
 ### 👑 Server Owners
 
-\<p align="center"> \<img src="/assets/gm-ymir.png" width="180" /> \</p>
+#### 🛡️ GM Ye Xiu
 
-#### 🛡️ **GM Ymir**
+**Owner**\
+**Administrator**
 
-\<div align="center">
-
-🏷️ **Owner**\
-🛠️ **Administrator**
-
-\</div>
-
-• Overall server management & direction\
-• Core configuration and balance\
-• Infrastructure, security & rule enforcement
+• Co-owner & strategic decisions\
+• Gameplay philosophy & EP5 integrity\
+• Staff operations & community oversight
 
 ***
 
