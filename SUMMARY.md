@@ -30,6 +30,10 @@
 * [FAQ](faq.md)
 * [Support & Contact](support-and-contact.md)
 
+## Staff Team
+
+* [YMIR Ragnarok Online — Staff Team](staff-team/ymir-ragnarok-online-staff-team.md)
+
 ## Discord Rules & Setup
 
 * [Term of Service](discord-rules-and-setup/term-of-service.md)
